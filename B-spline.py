@@ -34,3 +34,9 @@ plt.legend(loc='best')
 plt.axis([min(x)-1, max(x)+1, min(y)-1, max(y)+1])
 plt.title('Cubic B-spline curve evaluation')
 plt.show()
+
+
+
+#http://www2.cs.uregina.ca/~anima/408/Notes/Interpolation/UniformBSpline.htm
+
+
